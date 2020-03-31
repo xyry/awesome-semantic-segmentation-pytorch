@@ -206,3 +206,5 @@ See [TEST](https://github.com/Tramac/Awesome-semantic-segmentation-pytorch/tree/
 [pytorch-url]: https://pytorch.org/
 [lic-image]: https://img.shields.io/badge/Apache-2.0-blue.svg
 [lic-url]: https://github.com/Tramac/Awesome-semantic-segmentation-pytorch/blob/master/LICENSE
+# 备注
+修改数据集路径在dataloader文件夹下，我们以cityscapes举例，在cityscapes.py line40 将root修改为你电脑上数据集的地址即可
